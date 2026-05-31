@@ -55,10 +55,9 @@ The objective of this project was to:
 
 ```text
 /
-├── KiCad/
+├── Project File/
 │   ├── Schematic Files
 │   ├── PCB Layout
-│   └── Project Files
 │
 ├── Gerbers/
 │   └── Manufacturing Files
